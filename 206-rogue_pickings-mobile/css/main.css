@@ -13,6 +13,7 @@ html {
 body {
 	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
     display: flex;
+    font-size: 1em;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
