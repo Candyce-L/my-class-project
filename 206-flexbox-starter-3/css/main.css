@@ -11,7 +11,7 @@
    ========================================================================== */
 
 html {
-    background-image: url(../img/monument.jpg);
+    background: url(../img/monument.jpg);
     font-size: 1em;
     line-height: 1.4;
 }
